@@ -1,0 +1,5 @@
+.git
+.idea
+.tools
+target/*
+!target/flink-sandbox-1.0.0.jar
